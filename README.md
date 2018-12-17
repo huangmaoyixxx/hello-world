@@ -16,3 +16,4 @@ merge me
 
 test pull request
 
+test PR merged
